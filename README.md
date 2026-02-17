@@ -105,5 +105,5 @@ NEXTMIND/
 │   └── llm/
 ├── models/
 │   └── local_model_file.gguf
-└── README.md
+└── README.md//
 
