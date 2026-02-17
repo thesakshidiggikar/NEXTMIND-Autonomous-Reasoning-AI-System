@@ -1,0 +1,16 @@
+Knowledge Gap / Problem Space
+            ↓
+     Curiosity Engine
+            ↓
+   Hypothesis Generator
+            ↓
+    Experiment Designer
+            ↓
+     Experiment Runner
+            ↓
+     Result Analyzer
+            ↓
+     Knowledge Store
+            ↓
+      Meta Controller
+            ↺ (feedback loop)

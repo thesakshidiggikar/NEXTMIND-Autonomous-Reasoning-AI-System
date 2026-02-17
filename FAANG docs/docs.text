@@ -1,0 +1,5 @@
+NEXTMIND is an artificial scientist system that autonomously generates hypotheses, designs experiments, and discovers new knowledge using curiosity-driven learning.x
+
+
+Tech Stack: Python, PyTorch, Reinforcement Learning, Bayesian Inference, LLMs, Vector Databases (FAISS), Knowledge Graphs, FastAPI, Docker, Async Pipelines.
+I implemented a curiosity engine with a clean interface and started with a heuristic baseline. The system is designed so that more advanced ML-based curiosity models can be plugged in without changing downstream components.
